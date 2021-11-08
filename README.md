@@ -1,3 +1,17 @@
+# Yarron
+This is a social media websites specially made for Indian users.
+
+# How to contribute
+
+Step 1. Pull the code from main branch of this repository.
+
+Step 2. After making changes in the pulled main branch, create a new branch with your name
+        git commaand to create new branch:-
+        git checkout -b <your-name>
+  
+Step 3. Push your code to this new branch you created and then create a pull request.
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
