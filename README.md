@@ -7,7 +7,7 @@ Step 1. Pull the code from main branch of this repository.
 
 Step 2. After making changes in the pulled main branch, create a new branch with your name
         git commaand to create new branch:-
-        git checkout -b <your-name>
+        git checkout -b "your-name"
   
 Step 3. Push your code to this new branch you created and then create a pull request.
   
