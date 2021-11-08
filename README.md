@@ -1,5 +1,5 @@
 # Yarron
-This is a social media websites specially made for Indian users.
+This is a social media website specially made for Indian users.
 
 # How to contribute
 
